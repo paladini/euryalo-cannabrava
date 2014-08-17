@@ -123,6 +123,12 @@ a {
   font-family: segoeui, Arial, sans-serif;
   font-size: 14px;
 }
+.button.green{
+  background: #6ec14d;
+  color: white;
+  font-family: segoeui, Arial, sans-serif;
+  font-size: 14px;
+}
 .button.rounded {
   border-radius: 3px;
 }
