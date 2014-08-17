@@ -129,6 +129,11 @@ a {
   font-family: segoeui, Arial, sans-serif;
   font-size: 14px;
 }
+.circle{
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+}
 .button.rounded {
   border-radius: 3px;
 }
